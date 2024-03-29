@@ -1,0 +1,38 @@
+Requirements for each tool are listed below:
+
+File Reader:
+- Python 3.x
+- Pandas library
+- Requests library (for reading files from URLs)
+
+NLP Preprocessing Tool:
+- Python 3.x
+- NLTK library
+- TextBlob library
+- ipywidgets library
+
+Sentiment Analysis Tool:
+- Python 3.x
+- TextBlob library
+- ipywidgets library
+
+Feature Extraction Tool:
+- Python 3.x
+- TensorFlow library (for text preprocessing)
+- Scikit-learn library
+- ipywidgets library
+
+Interactive Model Building and Evaluation Tool:
+- Python 3.x
+- Scikit-learn library
+- TensorFlow library (for deep learning models)
+- XGBoost library (for XGBoost model)
+- Matplotlib library (for visualization)
+- ipywidgets library
+
+Automated Model Selection and Evaluation Tool:
+- Python 3.x
+- Scikit-learn library
+- TensorFlow library (for deep learning models)
+- XGBoost library (for XGBoost model)
+- ipywidgets library
