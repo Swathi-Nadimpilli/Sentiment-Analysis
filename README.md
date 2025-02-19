@@ -21,6 +21,7 @@ To use records of CNN news posted from 2012- 2017, to provide insights into user
 ### Methodology
 
 **Step 1:** Data Cleaning to inspect column/data types and treat missing values.
+
 **Step 2:** Data Preprocessing:
 - Text Cleaning: We removed unnecessary characters, URLs, and special symbols from the text to create a standardized dataset for analysis.
 - Tokenization: The text was broken down into individual words or tokens, a crucial step for further text analysis.
